@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wersIp/EoUIYDzaYnLbPjVB3dzy456N6iSZ3igsEUXLGA+K+XmhxGsZebDpLV+mnKMoEFapfVM7EBKczh31EdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jesus\\source\\repos\\MonitorSystem_API\\MonitorSystem_API\\MonitorSystem_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jesus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
